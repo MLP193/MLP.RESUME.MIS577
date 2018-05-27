@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -9,11 +8,11 @@
     <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
   </head>
   <body>
-    <div class="container">
-      <hr>
+<div class="container">
+  <hr>
       <div class="row">
         <div class="col-6">
-          <h1>Markus Paxton</h1>
+          <h1>Markus L. Paxton</h1>
         </div>
         <div class="col-6">
           <p class="text-right"><a href="">Download my Resume</a></p>
@@ -24,9 +23,11 @@
         <div class="col-md-8 col-sm-12">
           <div class="media">
             <img src="images/15420998_1195455033825684_1152670594741810338_n.jpg" alt="Generic placeholder image" width="300" height="302" class="mr-3 rounded">
+            
             <div class="media-body">
-              <h5 class="mt-0">Web Developer</h5>
-              Keller School of Management graduate, Bachelor’s of Science in Network & Communications, in the process of obtaining a Master’s Degree in Business Administration, with 5 years of experience in Information Technology, and 4 years of management experience in the restaurant industry. Honor student and member of “The National Society of Leadership and Success” (2018). Proven ability to resolve virus outbreaks through immediate isolation and removal, create and optimize Unix shell scripts, redesign networking and communications infrastructures for corporations, and provide system administration support for Unix systems including server and workstation upgrades, backups, and user account setup.
+              <h5 class="mt-0">IT Professional</h5>
+              Keller School of Management graduate, Bachelor’s of Science in Network & Communications, in the process of obtaining a Master’s Degree in Business Administration, with 5 years of experience in Information Technology, and 4 years of management experience in the restaurant industry. Honor student and member of “The National Society of Leadership and Success” (2018).
+				 Proven ability to resolve virus outbreaks through immediate isolation and removal, create and optimize Unix shell scripts, redesign networking and communications infrastructures for corporations, and provide system administration support for Unix systems including server and workstation upgrades, backups, and user account setup.
             </div>
           </div>
         </div>
@@ -137,15 +138,12 @@ Homeland, CA 92548<br>
       <h2>Portfolio</h2>
       <hr>
       <div class="container">
-        <div class="row text-center">
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/300X200.gif" alt=""></div>
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/300X200.gif" alt=""></div>
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/300X200.gif" alt=""></div>
-        </div>
-        <div class="row text-center">
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/300X200.gif" alt=""></div>
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/300X200.gif" alt=""></div>
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/300X200.gif" alt=""></div>
+<div class="row text-center">
+      <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/Bachelors.PNG" alt=""></div>
+          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/Angela Rec.PNG" alt=""></div>
+          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/Stacey rec.PNG" alt=""></div>
+     </div>
+
         </div>
       </div>
       <hr>
@@ -186,7 +184,7 @@ Homeland, CA 92548<br>
           </div>
         </div>
       </footer>
-    </div>
+  </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
